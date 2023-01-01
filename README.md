@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jq88
+- 👀 I’m interested in C++ and Olympic Weightlifting
+- 🌱 I’m currently learning Rust
+- 📫 You can reach me on [linkedin](https://www.linkedin.com/in/james-quinn-18409157/)
